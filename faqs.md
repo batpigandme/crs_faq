@@ -25,3 +25,15 @@ category.
 ![](https://i.imgur.com/kqEhXQD.png)
 
 ![](https://i.imgur.com/8CVAlPF.png)
+
+## Is it cool if I cross-post?
+
+If you post your question in more than one place (AKA cross-posting),
+you should always link to the other post. Not doing so is generally
+considered to be rude - someone might spend their time answering the
+question on StackOverflow, for example, when it’s already been answered
+here. For this reason, cross-posting is generally discouraged.
+
+If you must ask in multiple places, please make it very clear that you
+have done so, and once you have an answer in one place, make sure to
+update all of your questions accordingly.
