@@ -14,3 +14,14 @@ as your “solution.”
 *Example from one of my questions, below:*
 
 ![](https://i.imgur.com/C9fFXfQ.png)
+
+## How do I change categories?
+
+When changing the category for a question, you will not lose anything.
+The thread stays the same. All you need to do is click the pencil icon
+next to the post title, and then use the dropdown to select a different
+category.
+
+![](https://i.imgur.com/kqEhXQD.png)
+
+![](https://i.imgur.com/8CVAlPF.png)
