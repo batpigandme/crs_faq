@@ -4,8 +4,7 @@ FAQ responses for community.rstudio.com
 ## How do I choose a solution?
 
 If your question has been answered, please mark the solution.
-That way, someone in the future can come along and easily see what
-worked for you.
+That way, someone in the future can easily see what worked for you.
 
 If you’re the original poster (OP), there should be a little
 box at the bottom of replies that you can click to select that response
